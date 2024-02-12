@@ -4,13 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/05/52/74/84/240_F_552748421_twUz7OpbxVm7Zr976kXmMlN5VxKF5BjJ.jpg">
 
 - 🔭 I’m currently Student on **KIT - Kalaignarkarunanidhi Institute of Technology**
+  
 - 🌱 I’m currently learning **B. Tech AI & Data Science**
 
 - 👯 I’m looking to collaborate on **Data Analytics**
 
 - 🤝 I’m looking for help with **Data Science**
-
-- 👨‍💻 All of my projects are available at [sam-012.github.io/sam.io/](sam-012.github.io/sam.io/)
 
 - 📫 How to reach me **samjebaraj.sj@gmail.com**
 
