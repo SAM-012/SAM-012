@@ -1,4 +1,5 @@
-![MasterHead](//t3.ftcdn.net/jpg/05/02/52/50/240_F_502525048_QXSrHXUczD9yoyep1wVTpOFH0SeXhsrU.jpg)
+![MasterHead](https://images.unsplash.com/photo-1455849318743-b2233052fcff?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sam Jebaraj</h1>
 <h3 align="center">Pushing a B. Tech Artificial Intelligence and Data Science</h3>
 
