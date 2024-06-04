@@ -25,5 +25,6 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22418184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22418184" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/samarms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/samarms" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/x_0.sam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/x_0.sam/" height="30" width="40" /></a>
+
 <a href="https://medium.com/@sam-012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sam-012" height="30" width="40" /></a>
 </p>
