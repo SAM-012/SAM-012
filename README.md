@@ -1,10 +1,9 @@
-![MasterHead](https://github.com/user-attachments/assets/7c68082e-a589-43dd-b280-e12db1e959e3)
-
+![MasterHead](https://github.com/user-attachments/assets/556eeb95-4b9d-4dd6-a4b6-a8ff0bf4d61f)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sam Jebaraj</h1>
 <h3 align="center">Pushing a B. Tech Artificial Intelligence and Data Science</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/SAM-012/SAM-012/blob/main/adobe-66811f4145306.jpg?raw=true">
+<img align="right" alt="Coding" width="600" src="https://github.com/user-attachments/assets/3c900c44-9783-4b7d-9432-470ef8621290">
 
 - 🔭 I’m currently Student on **KIT-Kalaignarkarunanidhi Institute of Technology**
   
