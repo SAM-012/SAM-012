@@ -3,8 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sam Jebaraj</h1>
 <h3 align="center">Pushing a B. Tech Artificial Intelligence and Data Science</h3>
 
-<img align="right" alt="Coding" width="600" src="https://github.com/user-attachments/assets/3c900c44-9783-4b7d-9432-470ef8621290">
-
 - 🔭 I’m currently Student on **KIT-Kalaignarkarunanidhi Institute of Technology**
   
 - 🌱 I’m currently learning **B. Tech AI & Data Science**
