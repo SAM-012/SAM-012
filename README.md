@@ -5,14 +5,10 @@
 
 ### Hi there 👋
 
-I'm **Sam**, a B. Tech AI & Data Science student at **KIT-Kalaignarkarunanidhi Institute of Technology**. I'm now diving deep into the world of **Data Engineering**, **Data Science**, **AI**, and **ML**.
+I'm **Sam**, a B. Tech AI & Data Science student. I'm now diving deep into the world of **Data Engineering**, **Data Science**, **AI**, and **ML**.
 
 - 🔍 I’m passionate about leveraging data to drive insights and innovation.
-- 👯 I’m looking to collaborate on **Data Analytics** projects.
+- 👯 I’m looking to collaborate on projects.
 - 🤝 I’m currently seeking opportunities to expand my knowledge and skills in **Data Science**.
 
 📫 **How to reach me:** [samjebaraj.sj@gmail.com](mailto:samjebaraj.sj@gmail.com)
-
----
-
-⚡ **Fun fact:** I transitioned from a Mechanical Engineering background to explore the exciting world of data!
