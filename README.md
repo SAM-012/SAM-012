@@ -44,27 +44,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samjebaraj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samjebaraj&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjebaraj&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
 📧 [Mail Me](mailto:samjebaraj.sj@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-jebaraj)
 
----
-
-✨ *Let’s connect, build, and innovate with AI together.* ✨
