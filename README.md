@@ -47,6 +47,6 @@
 
 ## 📫 Connect with Me
 
-📧 [Mail Me](mailto:samjebaraj.sj@gmail.com)  
+📧 [![Mail Me](https://www.google.com/imgres?q=MAIL%20ICON&imgurl=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F1%2Ffree-mail-icon-142-thumb.png&imgrefurl=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Fmail-142.html&docid=MxAWze2HVNCdiM&tbnid=qBYgo8yVRqkDiM&vet=12ahUKEwiazenblo2PAxWoxzgGHc7KKFkQM3oECBAQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiazenblo2PAxWoxzgGHc7KKFkQM3oECBAQAA)](mailto:samjebaraj.sj@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-jebaraj)
 
