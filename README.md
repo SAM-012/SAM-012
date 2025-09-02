@@ -1,6 +1,6 @@
-![MasterHead](https://github.com/user-attachments/assets/556eeb95-4b9d-4dd6-a4b6-a8ff0bf4d61f)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sam</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sam </h1>
 
 <p align="center">
   🎓 B.Tech AI & Data Science | 🤖 Generative AI | 🧩 Machine Learning | 🧠 LLMs | 📍 Coimbatore, India
