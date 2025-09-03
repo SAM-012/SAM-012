@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Sam</h1>
 
 <p align="center">
-  I'm a B.Tech graduate in AI & Data Science based in Coimbatore, India. I have a passion for leveraging technology to solve real-world problems.
+  
 </p>
 
 ---
