@@ -1,52 +1,37 @@
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sam </h1>
+<h1 align="center">Hello, I'm Sam</h1>
 
 <p align="center">
-  🎓 B.Tech AI & Data Science | 🤖 Generative AI | 🧩 Machine Learning | 🧠 LLMs | 📍 Coimbatore, India
+  I'm a B.Tech graduate in AI & Data Science based in Coimbatore, India. I have a passion for leveraging technology to solve real-world problems.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Final year **AI & Data Science** graduate with practical experience in AI/ML projects.
-- 🐕 Built **Dog Dermatological Disease Prediction** using CNN (**ResNeXt-50**) — **97% accuracy**.
-- 🔍 Exploring **Generative AI**, **RAG-based LLM pipelines**, and NLP workflows.
-- ⚙️ Learning **GPU kernel authoring**, **distributed training**, and **LLM fine-tuning**.
-- 💡 Passionate about using AI to solve real-world problems.
-- 👥 Open to collaborations on **AI, Machine Learning, Data Science**, and **Generative AI** projects.
-- 📍 Actively looking for **entry-level AI, ML, or Data Science roles** — especially in **Coimbatore** and **South India**.
+I developed a Dog Dermatological Disease Prediction system using CNN (ResNeXt-50), achieving 97% accuracy. Currently, I'm diving into Generative AI and NLP workflows, and I'm eager to learn more about GPU kernel authoring and LLM fine-tuning. I'm open to collaborations in AI and Data Science and actively seeking entry-level roles in these fields.
 
 ---
 
-## 🧠 AI / ML / GenAI Skills
+## Skills
 
-- ✅ **AI / ML Algorithms**: CNNs, RAG, NLP pipelines, Transfer Learning
-- ✅ **Generative AI**: Prompt Engineering, Large Language Models (LLMs)
-- ✅ **Deep Learning Frameworks**: TensorFlow, Keras
-- ✅ **Computer Vision**: OpenCV, Image Classification
-- ✅ **Data Science**: Data Cleaning, EDA, Data Visualization, SQL
+- **AI / ML**: CNNs, RAG, NLP
+- **Generative AI**: Prompt Engineering, LLMs
+- **Deep Learning**: TensorFlow, Keras
+- **Computer Vision**: OpenCV
+- **Data Science**: EDA, SQL
 
 ---
 
-## ⚙️ Tools & Languages
+## Tools & Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=hugging-face&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
+## Let's Connect
 
-## 📫 Connect with Me
-
-📧 [![Mail Me](https://www.google.com/imgres?q=MAIL%20ICON&imgurl=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F1%2Ffree-mail-icon-142-thumb.png&imgrefurl=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Fmail-142.html&docid=MxAWze2HVNCdiM&tbnid=qBYgo8yVRqkDiM&vet=12ahUKEwiazenblo2PAxWoxzgGHc7KKFkQM3oECBAQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiazenblo2PAxWoxzgGHc7KKFkQM3oECBAQAA)](mailto:samjebaraj.sj@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-jebaraj)
-
+Feel free to reach out via email at [samjebaraj.sj@gmail.com](mailto:samjebaraj.sj@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sam-jebaraj). I look forward to collaborating!
